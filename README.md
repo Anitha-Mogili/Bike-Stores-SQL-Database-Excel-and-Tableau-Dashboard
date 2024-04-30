@@ -32,7 +32,10 @@ Connected the entire Excel Workbook to the SQL database and then imported the da
 
 
 ## Excel Dashboard:
-Created an Excel dashboard by importing the cleaned data and setting up interactive visualizations and pivot tables. The Dashboard contains charts, filters, maps to gain insights on the Revenue generated per year, per month, per state, per store, per brand, per product category, by customers and by sales rep.
+Created an Excel dashboard by importing the cleaned data and setting up **interactive visualizations** and **pivot tables**. The Dashboard contains **pivot charts, filters, slicers, maps** to gain insights on the Revenue generated per year, per month, per state, per store, per brand, per product category, by customers and by sales rep.
+
+![image](https://github.com/Anitha-Mogili/Bike-Stores-SQL-Database-Excel-and-Tableau-Dashboard/assets/64921654/c8fd6d59-e281-4cde-910f-fc0e29a0e249)
+
 
 
 ## Insights:
